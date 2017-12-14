@@ -1,0 +1,23 @@
+.SingleDatePickerInput {
+    border-radius: 5px;
+    width: 82px;
+}
+
+.SingleDatePickerInput__calendar-icon svg {
+    width: 10px!important;
+    height: 10px!important;
+    margin-left: 0px!important;
+    padding-top: 7px!important;
+}
+
+.SingleDatePickerInput__calendar-icon {
+    padding-left: 0px!important;
+    margin-left: 5px!important;
+}
+
+.DateInput DateInput--open-down {
+    padding: 0px!important;
+    background: inherit!important;
+    width: 70px!important;
+    font-size: 16px!important;
+}

@@ -1,0 +1,36 @@
+.no-p-l {
+    padding-left: 0px!important;
+}
+
+.text-green {
+    color: #6BFF88;
+}
+
+.f-s-11 {
+    font-size: 11px;
+}
+
+span .label .label-danger {
+    color: red;
+    font-weight: bold;
+}
+
+hr.hr-5 {
+    margin: 5px!important;
+}
+
+.t-a-l {
+    text-align: left!important;
+}
+
+.t-a-r {
+    text-align: right!important;
+}
+
+.t-a-c {
+    text-align: center!important;
+}
+
+th {
+    background-color: rgb(53, 53, 53)!important;
+}
